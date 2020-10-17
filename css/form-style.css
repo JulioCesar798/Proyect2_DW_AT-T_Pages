@@ -1,3 +1,7 @@
+@import url(../fonts/DINbek\ Light.ttf);
+@import url(../fonts/DINBek-Regular.ttf);
+@import url(../fonts/Roboto-Thin.ttf);
+
 .form-register {
   width: 400px;
   background: #24303c;
