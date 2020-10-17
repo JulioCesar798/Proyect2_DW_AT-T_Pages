@@ -132,6 +132,18 @@ text-align: center;
   width: 100%;
 }
 
+#contacto{
+  background-color:  rgb(0, 119, 182);
+  color:white;
+  text-align: center;
+  padding: 1pc;
+
+}
+
+#contacto text-box{
+  
+}
+
 /* html
 El width significa el ancho de la imagen
 El height significa el alto de la imagen
